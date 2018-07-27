@@ -10,6 +10,6 @@ class Book
   end
   
 end
-
+booty_bopper =
 Book.new("Booty Bopper")
   
